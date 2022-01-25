@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1Lesson3</string>
+    <string name="enter_link">Введите ссылку</string>
+    <string name="clear_me">Clear me</string>
+</resources>
